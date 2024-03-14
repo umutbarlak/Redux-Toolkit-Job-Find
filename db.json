@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": "56b8c6a7-307f-4e34-b15f-3a6cb5d0496b",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Ankara",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "8a822023-7b86-413b-818e-a8a0a69b0b05",
+      "position": "Software Developer",
+      "company": "Apple",
+      "location": "İstanbul",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "06.03.2024"
+    },
+    {
+      "id": "8b741034-dd87-4d7d-bd56-250a12c41028",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "d65ccb6e-b14a-4e8a-8481-d88bb5b6b4cb",
+      "position": "Frontend Developer",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "06.03.2024"
+    },
+    {
+      "id": "a5d1e3cb-c2cb-4788-8b00-ca07b65c5a94",
+      "position": "Frontend Developer",
+      "company": "Sahibinden",
+      "location": "İzmir",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "06.03.2024"
+    },
+    {
+      "id": "b8052d5e-cdb3-48fa-a299-b1e4f418b13c",
+      "position": "Frontend Developer",
+      "company": "Trivago",
+      "location": "Ankara",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "9f89b561-6a42-41f1-a490-20036f06a405",
+      "position": "Software Developer",
+      "company": "Samsung",
+      "location": "London",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "c84b3c1b-809a-4ca6-8fa1-ee1d43980903",
+      "position": "Product Manager",
+      "company": "Samsung",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "6fcad9a9-aa53-48b8-ad54-17003ac022e5",
+      "position": "Product Manager",
+      "company": "LetGo",
+      "location": "Antalya",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "83f681f0-5e39-477c-96bb-e9361279f505",
+      "position": "Product Manager",
+      "company": "Samsung",
+      "location": "Antalya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "13.03.2024"
+    }
+  ]
+}
