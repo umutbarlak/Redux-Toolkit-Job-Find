@@ -16,12 +16,13 @@ const jobSlice = createSlice({
     },
 
     setError: (state, action) => {
-      (state.isLoading = false), (state.error = action.payload);
+      state.isLoading = false;
+      state.error = action.payload;
     },
 
     setJobs: (state, action) => {
       state.isLoading = false;
-      state.error = false;
+      state.error = null;
       state.jobs = action.payload;
       state.mainJobs = action.payload;
     },

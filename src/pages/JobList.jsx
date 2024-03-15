@@ -3,11 +3,15 @@ import Loader from "../components/Loader";
 import Error from "../components/Error";
 import Card from "../components/Card";
 import Filter from "../components/Filter";
+import { useEffect } from "react";
 
 const JobList = ({ getJobs }) => {
   const jobState = useSelector((store) => store.jobReducer);
-  console.log(jobState.jobs);
-  console.log(jobState.mainJobs);
+
+  useEffect(() => {
+    getJobs();
+  }, []);
+
   return (
     <div className="list-page">
       <Filter />

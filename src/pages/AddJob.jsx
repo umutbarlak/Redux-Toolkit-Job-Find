@@ -18,10 +18,10 @@ const AddJob = () => {
     const data = new FormData(e.target);
     const formData = Object.fromEntries(data.entries());
 
+    formData.date = new Date().toLocaleDateString("en-US");
     formData.id = v4();
-    formData.date = new Date().toLocaleDateString();
 
-    console.log(formData);
+    console.log(new Date(formData.date));
 
     axios
       .post("http://localhost:3020/jobs/", formData)
